@@ -9,4 +9,5 @@ Made a heuristic optimization application with the city swap algorithm by using 
 
 Week 3:
 Started to the 2nd tour of "CS 50 LECTURES 2020" playlist from Youtube and watched .. videos.
+Watched "Lesson 1 - What is the version control?" from the Udacity course: "Version Control with Git".
 
