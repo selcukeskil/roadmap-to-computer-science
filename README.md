@@ -14,5 +14,5 @@ Watched the half of "Lesson 2 - Create A Git Repo" from the Udacity course: "Ver
 
 Week 7:
 Watched "Scratch" and "C" videos of "CS 50 LECTURES 2020" playlist from Youtube and took notes.
-Wrote a heuristic optimization code with the tabu algorithm by using Python. Uploaded that code to Github and uploaded the record of coding to Youtube.
+Wrote a heuristic optimization code with the tabu algorithm by using Python and recorded the coding.
 Watched Tutorial 1-5 of "Hugo - Static Site Generator | Tutorial" playlist from Youtube.
